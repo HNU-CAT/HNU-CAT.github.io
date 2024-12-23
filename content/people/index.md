@@ -11,6 +11,7 @@ sections:
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
+          - Teacher
           - Principal Investigators
           - Researchers
           - Grad Students
@@ -18,7 +19,6 @@ sections:
           - Visitors
           - Alumni
           - Current Students
-          - Teacher
       sort_by: Params.last_name
       sort_ascending: true
     design:

@@ -3,14 +3,14 @@
 title: Zhiqiang Miao
 
 # Full Name (for SEO)
-first_name: Zhiqiang Miao
-last_name: Liu
+first_name: Zhiqiang 
+last_name: Miao
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: PhD Candidates
+role: Professor of Control Science and Engineering
 # Organizations/Affiliations
 organizations:
   - name: Hunan University
@@ -25,9 +25,8 @@ interests:
   - cross-domain unmanned system
 
 education:
-
  courses:
-  - course: Visiting Scholar
+    - course: Visiting Scholar
       institution: University of New Mexico
       year: 2015
     - course: PhD in Control Science and Engineering
