@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhiqiang Miao
+title: Zhiqiang Miao 缪志强
 
 # Full Name (for SEO)
 first_name: Zhiqiang 

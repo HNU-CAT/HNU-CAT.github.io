@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xingxun Liu
+title: Xingxun Liu 刘兴勋
 
 # Full Name (for SEO)
 first_name: Xingxun
