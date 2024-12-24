@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Zhiqiang Miao 缪志强  # people 界面看到的标题，统一为 英文+中文
+title: Example 示例  # people 界面看到的标题，统一为 英文+中文
 
 # Full Name (for SEO)
 first_name: Zhiqiang        #姓名
@@ -12,6 +12,7 @@ superuser: true
 #角色，会在 people 界面展示，名字下边
 # Role/position
 role: Professor of Control Science and Engineering  
+
 # Organizations/Affiliations
 organizations:
   - name: Hunan University
@@ -43,6 +44,7 @@ education:
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
+
 #一些链接，没有可以直接注释
 social:
   - icon: envelope
@@ -71,9 +73,9 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# 分组，学生为Current Student
+# 分组，学生为Current Student， 老师为 Teacher
 user_groups:
-  - Teacher
+  - Current Student
 ---
 
 Zhiqiang Miao (Member, IEEE) received the B.S. and Ph.D. degrees in electrical and information engineering from Hunan University, Changsha, China, in 2010 and 2016, respectively.,From 2014 to 2015, he was a Visiting Scholar with the University of New Mexico, Albuquerque, NM, USA. He is currently an Associate Professor with the College of Electrical and Information Engineering, Hunan University. His research interests include multirobot systems, visual navigation, and nonlinear control.
