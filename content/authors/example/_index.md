@@ -75,7 +75,7 @@ highlight_name: false
 #   Set this to `[]` or comment out if you are not using People widget.
 # 分组，学生为Current Student， 老师为 Teacher
 user_groups:
-  - Current Student
+  - Current Students
 ---
 
 Zhiqiang Miao (Member, IEEE) received the B.S. and Ph.D. degrees in electrical and information engineering from Hunan University, Changsha, China, in 2010 and 2016, respectively.,From 2014 to 2015, he was a Visiting Scholar with the University of New Mexico, Albuquerque, NM, USA. He is currently an Associate Professor with the College of Electrical and Information Engineering, Hunan University. His research interests include multirobot systems, visual navigation, and nonlinear control.
