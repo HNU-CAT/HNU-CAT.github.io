@@ -3,8 +3,8 @@
 title: Example 示例  # people 界面看到的标题，统一为 英文+中文
 
 # Full Name (for SEO)
-first_name: Zhiqiang        #姓名
-last_name: Miao
+first_name: ming        #姓名
+last_name: xing
 
 # Is this the primary user of the site?
 superuser: true
