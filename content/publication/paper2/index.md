@@ -1,13 +1,13 @@
 ---
-title: 'An example conference paper'
+title: 'Distributed Drone Swarm Trajectory Planner Using Topology Planning Under Communication Delay'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Xingxun Liu
-  - Yaonan Wang
   - Zhiqiang Miao
+  - Yaonan Wang
 
 # Author notes (optional)
 author_notes:
@@ -51,7 +51,7 @@ url_poster: ''
 url_project: ''
 url_slides: ''
 url_source: ''
-url_video: ''
+url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
