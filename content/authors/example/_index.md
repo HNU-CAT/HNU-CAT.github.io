@@ -73,7 +73,7 @@ highlight_name: false
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-# 分组，学生为Current Student， 老师为 Teacher
+# 分组，学生为Current Students， 老师为 Teacher
 user_groups:
   - Current Students
 ---
